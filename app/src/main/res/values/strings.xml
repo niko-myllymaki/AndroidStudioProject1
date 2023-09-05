@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment_1</string>
+    <string name="welcome">Welcome to my app!</string>
+    <string name="firstname">First Name</string>
+    <string name="surname">Surname</string>
+    <string name="submit_txt">Submit</string>
+    <string name="phonenumber">Phone Number</string>
+    <string name="email">Email</string>
+</resources>
